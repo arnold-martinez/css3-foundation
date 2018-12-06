@@ -33,3 +33,7 @@ p + .offer {
 input[type="text"], input[type="email"] {
     border: none;
 }
+
+input[type="submit"] [class="button"] {
+    font-size: 1em;
+}
