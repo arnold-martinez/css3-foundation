@@ -59,3 +59,8 @@ a:focus {
     outline-style: dotted;
     outline-width: 1px;
 }
+
+#content p:first-of-type:first-letter {
+    font-size: 4em;
+    font-weight: bold;
+}
