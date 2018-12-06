@@ -29,3 +29,7 @@ aside > h3 {
 p + .offer {
     color: red;
 }
+
+input[type="text"], input[type="email"] {
+    border: none;
+}
