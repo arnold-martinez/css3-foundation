@@ -37,3 +37,25 @@ input[type="text"], input[type="email"] {
 input[type="submit"] [class="button"] {
     font-size: 1em;
 }
+
+a:link {
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+}
+
+a:active {
+    color: red;
+}
+
+a:focus {
+    outline-color: black;
+    outline-style: dotted;
+    outline-width: 1px;
+}
