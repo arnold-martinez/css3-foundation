@@ -7,6 +7,8 @@ body {
     /* you tell the browser to make the body's font size 62.5%  of its default size (inherited
        value (16px)x0.625 = 10px). Now 1 em is the equivalent of 10px.
     */
+    margin: 0 auto;
+    max-width: 960px;
 }
 
 #header, #main, #footer {
