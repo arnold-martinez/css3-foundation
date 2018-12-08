@@ -91,3 +91,7 @@ a:focus {
 .showcase .button:hover {
     background-color: #00ACDF;
 }
+
+#content {
+    width: 65%;
+}
