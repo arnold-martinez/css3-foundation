@@ -3,7 +3,15 @@
 body {
     background-color: #f5f5f5;
     background-image: url("../images/bg-body.jpg");
-    font-size: 16px;
+    font-size: 62.5%;
+    /* you tell the browser to make the body's font size 62.5%  of its default size (inherited
+       value (16px)x0.625 = 10px). Now 1 em is the equivalent of 10px.
+    */
+}
+
+#header, #main, #footer {
+    font-size: 1.6em;
+    /* inherited value (10px) x 1.6 = 16px*/
 }
 
 h1, h2, h3, h4 {
