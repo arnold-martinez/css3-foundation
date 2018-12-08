@@ -47,6 +47,10 @@ input[type="submit"] [class="button"] {
     font-size: 1em;
 }
 
+input[type="submit"][class="button"]:hover {
+    background-color: #d4326d;
+}
+
 a:link {
     text-decoration: underline;
 }
@@ -72,4 +76,18 @@ a:focus {
 #content p:first-of-type:first-letter {
     font-size: 4em;
     font-weight: bold;
+}
+
+#newsletter {
+    color: white;
+    background-color: #00ACDF;
+}
+
+#footer {
+    background-color: #ccc;
+    background-image: url("../images/bg-footer.jpg");
+}
+
+.showcase .button:hover {
+    background-color: #00ACDF;
 }
