@@ -98,6 +98,7 @@ a:focus {
 #footer {
     background-color: #ccc;
     background-image: url("../images/bg-footer.jpg");
+    border-top: #999 dotted 4px;
 }
 
 .showcase .button:hover {
