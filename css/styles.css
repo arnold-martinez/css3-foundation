@@ -93,6 +93,7 @@ a:focus {
 #newsletter {
     color: white;
     background-color: #00ACDF;
+    border-radius: 8px;
 }
 
 #footer {
