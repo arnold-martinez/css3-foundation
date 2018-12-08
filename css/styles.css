@@ -3,6 +3,7 @@
 body {
     background-color: #f5f5f5;
     background-image: url("../images/bg-body.jpg");
+    font-size: 16px;
 }
 
 h1, h2, h3, h4 {
