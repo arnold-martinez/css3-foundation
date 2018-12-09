@@ -54,6 +54,7 @@ p + .offer {
 
 input[type="text"], input[type="email"] {
     border: none;
+    box-shadow: -3px 3px 2px 0 #ccc inset;
 }
 
 input[type="submit"] [class="button"] {
