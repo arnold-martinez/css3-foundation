@@ -24,6 +24,7 @@ h1, h2, h3, h4 {
     background-color: white;
     background-color: rgba(255, 255, 255, 0.6);
     border: #ccc solid 1px;
+    box-shadow: 0 3px 8px 0 #ccc;
 }
 
 .button {
