@@ -99,7 +99,8 @@ a:focus {
     background-color: #00ACDF;
     border-radius: 8px;
     border: rgba(0, 0, 0, 0.1) solid 5px;
-    background-image: url("../images/icon-newsletter.png")
+    background-image: url("../images/icon-newsletter.png");
+    background-repeat: no-repeat;
 }
 
 #footer {
