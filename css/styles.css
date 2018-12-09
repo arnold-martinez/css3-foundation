@@ -113,6 +113,15 @@ a:focus {
 
 .showcase .button:hover {
     background-color: #00ACDF;
+    padding: 20px;
+    background-image:
+        -webkit-linear-gradient(top, #FB3876 0%, #d4326d 100%);
+    background-image:
+        -moz-linear-gradient(to bottom, #FB3876 0%, #d4326d 100%);
+    background-image:
+        -o-linear-gradient(to bottom, #FB3876 0%, #d4326d 100%);
+    background-image:
+        linear-gradient(to bottom, #FB3876 0%, #d4326d 100%);
 }
 
 #content {
