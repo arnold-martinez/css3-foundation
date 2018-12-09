@@ -101,7 +101,7 @@ a:focus {
     border: rgba(0, 0, 0, 0.1) solid 5px;
     background-image: url("../images/icon-newsletter.png");
     background-repeat: no-repeat;
-    background-position: right top;
+    background-position: 91% 2%;
 }
 
 #footer {
