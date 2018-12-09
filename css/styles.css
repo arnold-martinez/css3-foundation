@@ -30,6 +30,8 @@ h1, h2, h3, h4 {
 .button {
     background-color: hotpink;
     color: white;
+    border-radius: 8px;
+    border: 2px solid white;
 }
 
 blockquote p {
@@ -96,6 +98,7 @@ a:focus {
     color: white;
     background-color: #00ACDF;
     border-radius: 8px;
+    border: rgba(0, 0, 0, 0.1) solid 5px;
 }
 
 #footer {
@@ -111,4 +114,13 @@ a:focus {
 
 #content {
     width: 65%;
+}
+
+#header  nav > ul {
+    border-radius: 20px;
+    border: #ccc solid 1px;
+}
+
+.showcase {
+    box-shadow: 0 -3px 8px 0 #ccc;
 }
