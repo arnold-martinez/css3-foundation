@@ -101,6 +101,7 @@ a:focus {
     background-image: url("../images/bg-footer.jpg");
     border-top: #999 dotted 4px;
     border-image-source: url("../images/bdr-footer.png");
+    border-image-slice: 4;
 }
 
 .showcase .button:hover {
