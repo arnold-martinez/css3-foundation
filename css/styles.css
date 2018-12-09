@@ -99,9 +99,9 @@ a:focus {
     background-color: #00ACDF;
     border-radius: 8px;
     border: rgba(0, 0, 0, 0.1) solid 5px;
-    background-image: url("../images/icon-newsletter.png");
-    background-repeat: no-repeat;
-    background-position: 91% 2%;
+    background-image: url("../images/icon-newsletter.png"), url("../images/bg-newsletter.png");
+    background-repeat: no-repeat, repeat;
+    background-position: 91% 2%, 0;
 }
 
 #footer {
