@@ -96,13 +96,10 @@ a:focus {
 
 #newsletter {
     color: white;
-    background-color: #00ACDF;
     border-radius: 8px;
     border: rgba(0, 0, 0, 0.1) solid 5px;
-    background-image: url("../images/icon-newsletter.png"), url("../images/bg-newsletter.png");
-    background-repeat: no-repeat, repeat;
-    background-position: 91% 2%, 0;
     padding: 6%;
+    background: url("../images/icon-newsletter.png") no-repeat 91% 2%, url("../images/bg-newsletter.png");
 }
 
 #footer {
