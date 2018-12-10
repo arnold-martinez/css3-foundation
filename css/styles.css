@@ -134,3 +134,14 @@ a:focus {
 .showcase {
     box-shadow: 0 -3px 8px 0 #ccc;
 }
+
+.small-logo a {
+    background: white url("../images/logo-small.png") no-repeat center;
+    display: block;
+    min-height: 11px;
+    width: 162px;
+    padding: 5px;
+    font: 0/0 a;
+    text-shadow: none;
+    color: transparent;
+}
