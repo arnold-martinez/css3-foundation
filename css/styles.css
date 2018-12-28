@@ -11,6 +11,10 @@ body {
     max-width: 960px;
 }
 
+img {
+    max-width: 100%;
+}
+
 #header, #main, #footer {
     font-size: 1.6em;
     /* inherited value (10px) x 1.6 = 16px*/
